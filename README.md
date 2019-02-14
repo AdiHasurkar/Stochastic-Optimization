@@ -2,10 +2,13 @@
 
 ## Purpose 
 
-The purpose of this repository is to learn the basics of contemporary stochastic optimization methods.
+The purpose of this repository is to learn the basics of contemporary stochastic optimization methods in R.
+Several of these stochastic optimization approaches were developed to train convolutional neural networks and are highly useful in deep learning field.
+The idea behind provided codes is that, instead of directly using a package for stochastic optimization (for example - sgd(), gradDescent(),etc) , I created functions of these algorithms in order to undertand working of the algorithms step by step.
 Inference for linear regression coefficients via stochastic optimization has been conducted for three different datasets.
 
 ## Algorithms studied
+Gradient Descent (GD) is the starting point for stochastic optimization.
 The stochastic optimization algorithms considered are Stochastic Gradient Descent (SGD), Stochastic Gradient Descent with Momentum (MSGD), 
 Stochastic Gradient Descent with Nesterov Accelerated Gradient (NAGSGD), AdaGrad, RMSProp and Adam.
 I have used linear regression instead of deep learning models in order to understand these optimization algorithms. 
@@ -22,4 +25,7 @@ The third dataset is the million song dataset (MSD), which is available on the U
 Recall that MSD is a big dataset, containing 515,345 data points and 91 parameters. 
 More information about this subset of the million song data set is available at
 http://archive.ics.uci.edu/ml/datasets/YearPredictionMSD
+
+
+
 
