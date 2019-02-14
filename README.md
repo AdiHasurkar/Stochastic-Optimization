@@ -3,7 +3,7 @@
 ## Purpose 
 
 The purpose of this repository is to learn the basics of contemporary stochastic optimization methods in R.
-Several of these stochastic optimization approaches were developed to train convolutional neural networks and are highly useful in deep learning field.
+Several of these stochastic optimization approaches were developed to train convolutional neural networks and are highly used in deep learning field.
 The idea behind provided codes is that, instead of directly using a package for stochastic optimization (for example - sgd(), gradDescent(),etc) , I created functions of these algorithms in order to undertand working of the algorithms step by step.
 Inference for linear regression coefficients via stochastic optimization has been conducted for three different datasets.
 
