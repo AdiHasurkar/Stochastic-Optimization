@@ -11,7 +11,7 @@ Inference for linear regression coefficients via stochastic optimization has bee
 Gradient Descent (GD) is the starting point for stochastic optimization.
 The stochastic optimization algorithms considered are Stochastic Gradient Descent (SGD), Stochastic Gradient Descent with Momentum (MSGD), 
 Stochastic Gradient Descent with Nesterov Accelerated Gradient (NAGSGD), AdaGrad, RMSProp and Adam.
-I have used linear regression instead of deep learning models in order to understand these optimization algorithms. 
+I have used linear regression instead of deep learning models in order to understand these optimization algorithms from scratch. 
 
 ## Dataset Description
 
