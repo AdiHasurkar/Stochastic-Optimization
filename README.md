@@ -25,6 +25,8 @@ http://archive.ics.uci.edu/ml/datasets/YearPredictionMSD
 
 ## Methodology
 
+Starting with the simulated data (file named `simulated_data.csv`) which is associated with two regression coefficients, namely the slope and the intercept of a simple linear regression, stochastic optimization algorithms have been implemented. 
+
 
 
 
